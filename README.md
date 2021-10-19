@@ -23,7 +23,7 @@ The project has an HTML file with a simple "Hello Microverse!" header colored re
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](../../issues/).
+Feel free to check the [issues page](https://github.com/vechicin/Hello-Microverse/issues).
 
 ## Show your support
 
