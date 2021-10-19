@@ -3,7 +3,7 @@
 
 > This is my first Microverse project in which we are supposed to use linters for both the HTML and CSS files.
 
-![screenshot](./app_screenshot.png)
+![screenshot](./screenshot.png)
 
 The project has an HTML file with a simple "Hello Microverse!" header colored red with CSS.
 
